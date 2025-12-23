@@ -1,0 +1,1 @@
+2 functions defined the sun function which is a one liner function and the second sun1 which is the traditional method of iterationf over loops 

@@ -1,0 +1,1 @@
+Nothing to describe much bot this function gives us whether the number is even or odd but using the remander concept (modulo operator)
