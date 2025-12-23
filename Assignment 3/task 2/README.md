@@ -1,0 +1,1 @@
+Using the math module displaying the root , log and sine values of the number specified
