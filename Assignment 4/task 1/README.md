@@ -1,0 +1,1 @@
+This project shows how to read and print a text file in Python.

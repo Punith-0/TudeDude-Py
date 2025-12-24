@@ -1,0 +1,4 @@
+Hello  this is the first line .
+This is the second line .
+This is a sample line .
+And lastly the file is closed
