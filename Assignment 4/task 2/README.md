@@ -1,0 +1,1 @@
+This program writes user input to a file and optionally appends additional content.
