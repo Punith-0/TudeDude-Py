@@ -1,0 +1,1 @@
+A Python program that stores student names and marks in a dictionary and displays the marks for a given student, or an error message if the student is not found.
