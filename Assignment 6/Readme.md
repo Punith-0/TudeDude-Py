@@ -1,0 +1,1 @@
+COntains the script for a simple claculator using the gui tkinter module in python uses rows and columns instaed of manually calculating the pixels for each row 
